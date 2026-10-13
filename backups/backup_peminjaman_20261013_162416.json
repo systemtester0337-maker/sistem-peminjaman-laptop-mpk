@@ -1,0 +1,52 @@
+{
+  "system": "Sistem Pengurusan Peminjaman Laptop MPK",
+  "backup_date": "2026-10-13 16:24:16",
+  "total_records": 5,
+  "records": [
+    {
+      "id": 5,
+      "nama_laptop": "Acer TravelMate P2",
+      "nama_jabatan": "Jabatan Hal Ehwal Pelajar",
+      "tarikh_peminjaman": "2026-10-13",
+      "tujuan": "Pendaftaran pelajar baharu sesi kemasukan terkini",
+      "created_at": "2026-10-13 07:27:44",
+      "updated_at": "2026-10-13 07:27:44"
+    },
+    {
+      "id": 4,
+      "nama_laptop": "Apple MacBook Air M2",
+      "nama_jabatan": "Unit Komunikasi Korporat",
+      "tarikh_peminjaman": "2026-10-13",
+      "tujuan": "Penyuntingan video montaj dan liputan majlis konvokesyen",
+      "created_at": "2026-10-13 07:27:44",
+      "updated_at": "2026-10-13 07:27:44"
+    },
+    {
+      "id": 3,
+      "nama_laptop": "HP ProBook 450 G8",
+      "nama_jabatan": "Jabatan Kewangan & Akaun",
+      "tarikh_peminjaman": "2026-10-13",
+      "tujuan": "Penyediaan laporan audit kewangan suku tahun ketiga",
+      "created_at": "2026-10-13 07:27:44",
+      "updated_at": "2026-10-13 07:27:44"
+    },
+    {
+      "id": 2,
+      "nama_laptop": "Lenovo ThinkPad T14",
+      "nama_jabatan": "Jabatan Sumber Manusia",
+      "tarikh_peminjaman": "2026-10-13",
+      "tujuan": "Sesi temuduga calon jawatan baharu dan saringan atas talian",
+      "created_at": "2026-10-13 07:27:44",
+      "updated_at": "2026-10-13 07:27:44"
+    },
+    {
+      "id": 1,
+      "nama_laptop": "Dell Latitude 5420",
+      "nama_jabatan": "Jabatan Teknologi Maklumat",
+      "tarikh_peminjaman": "2026-10-13",
+      "tujuan": "Penyelenggaraan pelayan dan konfigurasi rangkaian institusi",
+      "created_at": "2026-10-13 07:27:44",
+      "updated_at": "2026-10-13 07:27:44"
+    }
+  ]
+}
